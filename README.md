@@ -1,1 +1,1 @@
-Our Exercise in Intprog (Group 8)
+Our Exercise 2 in Intprog (Group 8)
